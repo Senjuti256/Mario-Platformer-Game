@@ -18,6 +18,7 @@ pipeline{
        
       steps{
          echo 'testing the application......'
+         echo 'application tested..'
         
          }
       
@@ -28,6 +29,8 @@ pipeline{
       
       steps{
         echo 'deploying the application....'
+        echo 'application deployed..'
+        
           }
       
     }
