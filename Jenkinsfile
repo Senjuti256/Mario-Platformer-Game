@@ -29,7 +29,7 @@ pipeline{
       
       steps{
         echo 'deploying the application....'
-        echo 'application is deployed..'
+       
         
           }
       
