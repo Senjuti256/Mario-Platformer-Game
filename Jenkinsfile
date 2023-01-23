@@ -8,7 +8,7 @@ pipeline{
       
       steps {
         echo 'building the application....'
-        echo 'application built..'
+        echo 'application is built..'
         
       }
       
@@ -18,7 +18,7 @@ pipeline{
        
       steps{
          echo 'testing the application......'
-         echo 'application tested..'
+         echo 'application is tested..'
         
          }
       
@@ -29,7 +29,7 @@ pipeline{
       
       steps{
         echo 'deploying the application....'
-        echo 'application deployed..'
+        echo 'application is deployed..'
         
           }
       
